@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    margin: 20px;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    background-color: #4CAF50;
+    color: #fff;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+.tabelas {
+  display: inline-block;
+  margin-right: 20px;
+}

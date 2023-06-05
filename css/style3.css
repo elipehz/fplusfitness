@@ -1,0 +1,40 @@
+.calculator {
+	margin: 150px auto;
+	max-width: 400px;
+	background-color: #f0f0f0;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	margin-top: 0;
+}
+
+label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+input {
+	padding: 5px;
+	margin-bottom: 10px;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 10px;
+	border: none;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
+
+button:hover {
+	background-color: #3e8e41;
+}
+
+#result {
+	margin-top: 20px;
+	font-size: 24px;
+	font-weight: bold;
+}
